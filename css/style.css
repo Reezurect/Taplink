@@ -16,8 +16,9 @@ body {
   border-radius: 20px;
 }
 .container {
-  min-width: 300px;
+  min-width: 330px;
   margin: auto;
+  
 }
 .header {
   color: #F1F1F1;
